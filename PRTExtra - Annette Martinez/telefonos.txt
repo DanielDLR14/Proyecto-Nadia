@@ -1,0 +1,8 @@
+Telefono:IdCliente:Cliente:TipoPlan
+8095556573:1005:Silvestre Beras:3
+8096670987:1003:Minerva Amancio:2
+8096678967:1004:Angela Zapata:1
+8098884567:1001:Juan Perez:1
+8098889075:1004:Angela Zapata:2
+8099981290:1001:Juan Perez:3
+8099990001:1002:Luis Matos:1
